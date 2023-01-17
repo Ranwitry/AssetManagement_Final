@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "448359665332",
+    "project_id": "asset-management-1f067",
+    "storage_bucket": "asset-management-1f067.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448359665332:android:79572fc60c39398004d1e1",
+        "android_client_info": {
+          "package_name": "com.example.asmen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448359665332-enhcrnncj0a174dv15o336r4ch8sk94k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy0gkXJNUaf8_DfKqmFR1VjekoGb408Qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448359665332-enhcrnncj0a174dv15o336r4ch8sk94k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
